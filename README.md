@@ -1,4 +1,4 @@
-# Movement-of-Robot-Joints
+# Ex-Movement-of-Robot-Joints
 ## Aim:  
 To move and drive the joints of the robot using python API.
 
